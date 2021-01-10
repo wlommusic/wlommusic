@@ -26,7 +26,7 @@ Here are a few things I've picked up along my learning journey.
 - Gmail   - [mail](mailto:diptapanda7@gmail.com)
  
     
-################################################## or give some ♥  [HERE](https://wlommusic.github.io/music_streaming/) .##################################################
+🔥🔥🔥🔥🔥 or give some ♥  [HERE](https://wlommusic.github.io/music_streaming/) 
 
 
 
