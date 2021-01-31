@@ -13,7 +13,7 @@ Here are a few things I've picked up along my learning journey.
 * 🐍 Python  
 * 🖥 C/C++
 * ☢️ Django/Pandas/Matplotly/Seaborn
-* 🛢️ MySQL | SQLite 
+* 🛢️ PostgreSQL|MySQL | SQLite 
 * 😏 PHP
 * :octocat: Git | Github
 * 🌐 HTML | CSS
