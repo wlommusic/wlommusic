@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wlommusic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dipta-panda//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/wlom_music/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/diptapanda7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/3VAsl4hVBSwi1Z2Ysb9kuf?si=oJ-E0d63SHyBBr6XFK0aqQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:diptapanda7@gmail.com)  
     
-🔥🔥🔥🔥🔥 or give some ♥  [HERE](https://wlommusic.github.io/music_streaming/) 
+🔥🔥🔥🔥🔥 or give some ♥  [HERE](https://wlommusic.github.io/music-streaming/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlommusic)](https://github.com/anuraghazra/github-readme-stats)
 
