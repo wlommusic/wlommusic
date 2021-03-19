@@ -26,8 +26,7 @@ Here are a few things I've picked up along my learning journey.
     
 🔥🔥🔥🔥🔥 or give some ♥  [HERE](https://wlommusic.github.io/music-streaming/) 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlommusic&hide=css,scss&langs_count=6&exclude_repo=Lime_Senpai)]
 
 
 
