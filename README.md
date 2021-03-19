@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Dipta ranjan Panda 
 
-I am a Machine-learning enthusiast, Web Developer, Python Developer and Music Producer. I am passionate about technologies and love to learn new things.
+I am a Machine-learning enthusiast, FullStack Developer, Python Developer and Music Producer. I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
 
