@@ -28,6 +28,11 @@ Here are a few things I've picked up along my learning journey.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlommusic&hide=css,scss&langs_count=8&exclude_repo=Lime_Senpai&layout=compact)
 
+##Also check my discord server!!
+<a href="https://discord.gg/NarJukR7zB">
+  <img align="left" alt="DSi" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 ![Wlom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlommusic&show_icons=true&theme=radical)
 
 
