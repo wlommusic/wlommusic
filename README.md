@@ -28,6 +28,8 @@ Here are a few things I've picked up along my learning journey.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlommusic&hide=css,scss&langs_count=8&exclude_repo=Lime_Senpai&layout=compact)
 
+![Wlom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlommusic&show_icons=true&theme=radical)
+
 
 
 [Yo check this out](https://open.spotify.com/artist/3VAsl4hVBSwi1Z2Ysb9kuf?si=oJ-E0d63SHyBBr6XFK0aqQ)
