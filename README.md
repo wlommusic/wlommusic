@@ -11,13 +11,13 @@ I am a Machine-learning enthusiast, FullStack Developer, Python Developer and Mu
 Here are a few things I've picked up along my learning journey.
 
 * 🐍 Python  
-* 🖥 C/C++
-* ☢️ Django/Pandas/Matplotly/Seaborn
+* 🖥 C | C++
+* ☢️ Django | Pandas | Matplotly | Seaborn | Tensorflow 2.0
 * 🛢️ PostgreSQL | MySQL | SQLite 
 * 😏 PHP
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* 💠 JavaScript/Vuejs/React/NodeJs
+* 💠 JavaScript | Vuejs | React | NodeJs
 * 📱 Bootstrap
 
 ## 📫 Get in touch
