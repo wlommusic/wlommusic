@@ -17,7 +17,7 @@ Here are a few things I've picked up along my learning journey.
 * 😏 PHP
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* 💠 JavaScript | Vuejs | React | NodeJs | Express.Js
+* 💠 JavaScript | TypeScript | Vuejs | React | NodeJs | Express.Js
 * 📱 Bootstrap
 
 ## 📫 Get in touch
