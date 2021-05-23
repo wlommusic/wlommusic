@@ -12,7 +12,7 @@ Here are a few things I've picked up along my learning journey.
 
 * 🐍 Python  
 * 🖥 C | C++
-* ☢️ Django | Pandas | Matplotly | Seaborn | Tensorflow 2.0 | Pytorch | 
+* ☢️ Django | Pandas | Matplotly | Seaborn | Tensorflow 2.0 | Pytorch | Scikit learn
 * 🛢️ PostgreSQL | MySQL | SQLite 
 * 😏 PHP
 * :octocat: Git | Github
