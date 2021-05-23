@@ -12,12 +12,12 @@ Here are a few things I've picked up along my learning journey.
 
 * 🐍 Python  
 * 🖥 C | C++
-* ☢️ Django | Pandas | Matplotly | Seaborn | Tensorflow 2.0
+* ☢️ Django | Pandas | Matplotly | Seaborn | Tensorflow 2.0 | Pytorch | 
 * 🛢️ PostgreSQL | MySQL | SQLite 
 * 😏 PHP
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* 💠 JavaScript | TypeScript | Vuejs | React | NodeJs | Angular 
+* 💠 JavaScript | TypeScript | Vuejs | React | NodeJs | Angular | Express 
 * 📱 Bootstrap
 
 ## 📫 Get in touch
