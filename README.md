@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wlommusic.wlommusic)
 
 </p>
-<div size='20px'> Hi! My name is Dipta Ranjan Panda. :smile: 
+<div size='20px'> Hi! My name is Dipta Ranjan Panda. :smile:  
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on I am a FullStack DataScientist , Machine-learning enthusiast, Python Developer and Music Producer. I am passionate about technologies and love to learn new things.
+- 🌱 I am a FullStack DataScientist , Machine-learning enthusiast, Python Developer and Music Producer. I am passionate about technologies and love to learn new things.
 
-- 🌱 I’m currently learning NextJs, Nestjs 
+- 🔭 I’m currently learning NextJs, Nestjs 
 
 - 👯 I’m looking to collaborate on Projects , Tech Articles 
 
