@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Dipta Ranjan Panda. :smile:  
 </div>
 
-<h2> About Me <img src = "https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width = 50px></h2>
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
