@@ -16,7 +16,7 @@
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I am a FullStack DataScientist , Machine-learning enthusiast, Python Developer and Music Producer. I am passionate about technologies and love to learn new things.
+- 🌱 I am a FullStack Developer and Music Producer. I am passionate about technologies and love to learn new things.
 
 - 🔭 I’m currently learning NextJs, Nestjs 
 
